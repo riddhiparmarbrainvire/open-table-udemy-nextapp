@@ -8,4 +8,3 @@ export default function Head() {
     </>
   );
 }
-2cfa6CqNuVKTo74J// 
